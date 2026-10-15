@@ -1,4 +1,4 @@
-<a href="https://suvilabs.dev"><img src="assets/banner.png" alt="SUVI LABS: We build things worth building." width="100%"></a>
+<a href="https://suvilabs.dev"><img src="https://raw.githubusercontent.com/SSP444/SSP444/main/assets/banner.png" alt="SUVI LABS: We build things worth building." width="100%"></a>
 
 ### Hi, I'm Soumyaranjan 👋
 
